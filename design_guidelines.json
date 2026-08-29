@@ -1,0 +1,41 @@
+{
+  "app_type": "dashboard",
+  "theme": "dark industrial clean",
+  "typography": {
+    "headings": "Chivo, sans-serif",
+    "body": "Inter, sans-serif",
+    "mono": "JetBrains Mono, monospace"
+  },
+  "colors": {
+    "base": "#0B0E13",
+    "surface": "#131822",
+    "surface_elevated": "#1A2230",
+    "border": "#273449",
+    "text_primary": "#F1F5F9",
+    "text_secondary": "#94A3B8",
+    "accent_primary": "#00E5FF",
+    "accent_warning": "#F59E0B",
+    "accent_danger": "#EF4444",
+    "accent_success": "#10B981"
+  },
+  "components": [
+    "OverviewLiveMonitor",
+    "BeltHealthContributions",
+    "AIInspectionDetections",
+    "PredictionRUL",
+    "ReportsExport",
+    "SettingsScreen"
+  ],
+  "image_urls": [
+    {
+      "category": "industrial_conveyor_hero",
+      "url": "https://images.unsplash.com/photo-1535923430552-0ce3cd477cc7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1NzZ8MHwxfHNlYXJjaHwzfHxpbmR1c3RyaWFsJTIwY29udmV5b3IlMjBiZWx0JTIwbWFjaGluZXxlbnwwfHx8fDE3ODgwMjU1NDZ8MA&ixlib=rb-4.1.0&q=85",
+      "description": "Industrial conveyor belt hardware sample"
+    },
+    {
+      "category": "factory_overview",
+      "url": "https://images.unsplash.com/photo-1701328778019-e95dedbf5346?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1NzZ8MHwxfHNlYXJjaHwxfHxpbmR1c3RyaWFsJTIwY29udmV5b3IlMjBiZWx0JTIwbWFjaGluZXxlbnwwfHx8fDE3ODgwMjU1NDZ8MA&ixlib=rb-4.1.0&q=85",
+      "description": "Factory plant floor with sorting systems"
+    }
+  ]
+}
